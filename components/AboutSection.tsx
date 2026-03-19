@@ -74,6 +74,7 @@ export default function AboutSection() {
                       fontWeight: 700,
                       color: "#0D0D0D",
                       lineHeight: 1.7,
+                      textIndent: "4.6rem"
                     }}
                   >
                     I am <strong>Nithik</strong>, currently pursuing an M.Sc in Software Systems (2023–2028) at the <strong>Coimbatore Institute of Technology</strong>, Coimbatore. My work focuses on building practical, user-centered software solutions with strong technical foundations.
