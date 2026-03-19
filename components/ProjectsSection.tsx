@@ -27,9 +27,9 @@ const projects: Project[] = [
     title: "Automated Bus Scheduler",
     subtitle: "Mission: Smart Transit",
     description:
-      "A bus scheduling and route visualization platform with Gemini-powered chatbot, real-time route color coding, and a fully responsive UI. Built to make transit smarter!",
+      "A bus scheduling and route visualization platform with Gemini-powered chatbot, real-time route color coding, and a fully responsive UI. I enhanced the design using Dribbble to create an intuitive, user-friendly interface. Built to make transit smarter!",
     imageUrl: "https://i.ibb.co/Y4JGjzVF/Screenshot-726.png",
-    tags: ["React.js", "Next.js", "Leaflet", "Firebase", "Gemini AI"],
+    tags: ["React.js", "Next.js", "Leaflet", "Firebase", "Gemini AI", "Dribbble"],
     icon: "🚌",
     color: "#E52222",
     accentColor: "#FFD700",
@@ -40,9 +40,9 @@ const projects: Project[] = [
     title: "Focus Quest",
     subtitle: "Mission: Gamified Productivity",
     description:
-      "A gamified Pomodoro productivity app with RPG mechanics. Level up your focus, earn XP, defeat procrastination — the ultimate productivity RPG!",
+      "A gamified Pomodoro productivity app with RPG mechanics. I enhanced the design using Figma to craft engaging visuals and smooth interactions. Level up your focus, earn XP, defeat procrastination — the ultimate productivity RPG!",
     imageUrl: "https://i.ibb.co/CpCgX0Rj/Screenshot-727.png",
-    tags: ["React", "Tailwind", "Framer Motion", "Node.js", "PostgreSQL"],
+    tags: ["React", "Tailwind", "Framer Motion", "Node.js", "PostgreSQL", "Figma"],
     icon: "🎮",
     color: "#6A0DAD",
     accentColor: "#FFD700",
