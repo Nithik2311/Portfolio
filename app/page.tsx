@@ -6,6 +6,8 @@ import AboutSection from "@/components/AboutSection";
 import SkillsSection from "@/components/SkillsSection";
 import ProjectsSection from "@/components/ProjectsSection";
 import ServicesSection from "@/components/ServicesSection";
+import CertificatesSection from "@/components/CertificatesSection";
+import AchievementsSection from "@/components/AchievementsSection";
 import ContactSection from "@/components/ContactSection";
 import Footer from "@/components/Footer";
 import ClickEffect from "@/components/ClickEffect";
@@ -16,6 +18,8 @@ const sections = [
   { id: "skills", label: "Powers", Component: SkillsSection },
   { id: "projects", label: "Missions", Component: ProjectsSection },
   { id: "services", label: "Services", Component: ServicesSection },
+  { id: "certificates", label: "Certs", Component: CertificatesSection },
+  { id: "achievements", label: "Wins", Component: AchievementsSection },
   { id: "contact", label: "Signal", Component: ContactSection },
   { id: "finale", label: "Finale", Component: Footer },
 ] as const;
